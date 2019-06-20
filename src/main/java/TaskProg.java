@@ -180,12 +180,28 @@ public class TaskProg {
     }
 }*/
 
-public class TaskProg {
+//Умножение на 2 чисел из массива
+/*public class TaskProg {
     public static void main(String[] args) {
-        int n = 10;
-        for(int i=0, j = n - 1; i < j; i++, j--){
-
-            System.out.println(i * j);
+        int[] array = new int[] { 1, 2, 3, 4, 5 };
+        for (int i=0; i<array.length;i++){
+            array[i] = array[i] * 2;
+            System.out.println(array[i]);
         }
+    }
+}*/
+
+//Методы с параметрами
+public class TaskProg{
+    public static void main (String args[]){
+        int a = 6;
+        int b = 8;
+        sum(a, b);  // 14
+        sum(3, a);  // 9
+        sum(5, 23); // 28
+    }
+    static void sum(int x, int y){
+        int z = x + y;
+        System.out.println(z);
     }
 }
