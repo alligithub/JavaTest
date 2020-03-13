@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb8b811-e962-4d00-8e56-2df59fc2430f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DeleteCharcterFrom4To7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplayCertainNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplayFrom1To5While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplayFrom7To98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplayHelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplayNumberFrom1To3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplaySpecifiedNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DisplaysFrom1To5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenAndOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exponentiation3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonachi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindCharacterInSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MethodWithParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multiiplication2NumbersFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PyramidOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TaskProg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/TaskProg.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +64,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="343" />
-    <option name="y" value="7" />
-    <option name="width" value="1093" />
-    <option name="height" value="1031" />
-  </component>
   <component name="ProjectId" id="1Z4P9GhZX7plnE8Hsrj6CKlaMKl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -102,7 +78,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestClass">
+    <configuration name="Multiiplication2NumbersFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiiplication2NumbersFromArray" />
+      <module name="JavaTest.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaskProg" />
       <module name="JavaTest.main" />
@@ -110,8 +93,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="JavaTest.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.Multiiplication2NumbersFromArray" />
         <item itemvalue="Application.TaskProg" />
       </list>
     </recent_temporary>
@@ -127,12 +119,49 @@
       <option name="presentableId" value="Default" />
       <updated>1560517029179</updated>
     </task>
+    <task id="LOCAL-00001" summary="Refactor Classes">
+      <created>1584096674849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584096674849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Refactor Classes" />
+    <MESSAGE value="Refactor Classes 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor Classes 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1584096700676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584096700676" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1584110845084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584110845084" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1584110845083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584110845083" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1584110845083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584110845083" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1584110845084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584110845084" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584096742038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584096742038" />
   </component>
   <component name="masterDetails">
     <states>
